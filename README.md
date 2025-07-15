@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores a dataset of taco sales across several U.S. cities, including details such as order time, delivery time, taco type, tip amount, and more. The goal of this exploratory data analysis (EDA) is to uncover insights into customer behavior, delivery dynamics, and sales patterns.
+This project explores a dataset of taco sales across several U.S. cities, including details such as order time, delivery time, taco type, tip amount and more. The goal of this exploratory data analysis (EDA) is to uncover insights into customer behaviour, delivery dynamics, and sales patterns.
 
 ## Dataset Summary
 
@@ -17,7 +17,7 @@ The dataset includes the following features:
 
 - **Python**
 - **Pandas** and **NumPy** for data manipulation
-- **Seaborn** and **Matplotlib** for visualization
+- **Matplotlib** for visualisation
 - **Jupyter Notebook** for interactive analysis
 
 ## Key Analysis Performed
@@ -36,8 +36,10 @@ While synthetic, the dataset still serves as a useful sandbox for EDA practice, 
 
 ## Folder Structure
 
-├── taco_sales_eda.ipynb # Jupyter notebook with all analysis and visualizations
+├── taco_sales_eda.ipynb # Jupyter notebook with all analysis and visualisations
+
 ├── taco_sales.csv # Dataset (synthetic)
+
 └── README.md # Project documentation
 
 
